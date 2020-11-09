@@ -174,7 +174,11 @@
   top: 50%;
   margin-left: -40px;
   margin-top: -40px;
+<<<<<<< HEAD
   background: url("") no-repeat;
+=======
+  background:no-repeat;
+>>>>>>> 6e361c6446e406b1b5dd13262571c7fd92b1dc66
   cursor: pointer;
   z-index: 1;
   -webkit-backface-visibility: hidden;
